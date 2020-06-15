@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bean-lifecycle" />
+        <module name="bean-scope" />
+        <module name="configuration-metadata" />
+        <module name="data-binding" />
+        <module name="dependency-injection" />
+        <module name="dependency-lookup" />
+        <module name="dependency-source" />
+        <module name="i18n" />
+        <module name="ioc-container-overview" />
+        <module name="resource" />
+        <module name="spring-bean" />
+        <module name="validation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="bean-lifecycle" target="1.8" />
+      <module name="bean-scope" target="1.8" />
+      <module name="configuration-metadata" target="1.8" />
+      <module name="data-binding" target="1.8" />
+      <module name="dependency-injection" target="1.8" />
+      <module name="dependency-lookup" target="1.8" />
+      <module name="dependency-source" target="1.8" />
+      <module name="i18n" target="1.8" />
+      <module name="ioc-container-overview" target="1.8" />
+      <module name="resource" target="1.8" />
+      <module name="spring-bean" target="1.8" />
+      <module name="thinking-in-spring" target="1.8" />
+      <module name="validation" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
